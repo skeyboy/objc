@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="objc" targetName="objc" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b2db2cb6-4a07-41a7-b6d2-6588bc78df28" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/objc.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/a.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/objc.dir/C.includecache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/objc.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/objc.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/objc.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/objc.dir/depend.internal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/objc.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/objc.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/objc.dir/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/objc.dir/main.c.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/objc.dir/objc_class.c.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/objc.dir/objc_object.c.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/objc.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/objc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/objc.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/objc_class.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/objc_class.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/objc_object.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/objc_object.h" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1YazKFL1jZVZN0X1Bb2AyaOx7L5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="objc" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="objc" TARGET_NAME="objc" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="objc" RUN_TARGET_NAME="objc">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b2db2cb6-4a07-41a7-b6d2-6588bc78df28" name="Default Changelist" comment="" />
+      <created>1583195426218</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583195426218</updated>
+      <workItem from="1583195428075" duration="1782000" />
+      <workItem from="1583207549054" duration="2424000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="966" y="192" key="#xdebugger.evaluate" timestamp="1583208316570">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="966" y="192" key="#xdebugger.evaluate/0.23.1440.877@0.23.1440.877" timestamp="1583208316570" />
+    <state width="1106" height="223" key="GridCell.Tab.0.bottom" timestamp="1583209286668">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1106" height="223" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1583209286668" />
+    <state width="1106" height="223" key="GridCell.Tab.0.center" timestamp="1583209286667">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1106" height="223" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1583209286667" />
+    <state width="1106" height="223" key="GridCell.Tab.0.left" timestamp="1583209286666">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1106" height="223" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1583209286666" />
+    <state width="1106" height="223" key="GridCell.Tab.0.right" timestamp="1583209286668">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1106" height="223" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1583209286668" />
+    <state width="1106" height="223" key="GridCell.Tab.1.bottom" timestamp="1583209286669">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1106" height="223" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1583209286669" />
+    <state width="1106" height="223" key="GridCell.Tab.1.center" timestamp="1583209286669">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1106" height="223" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1583209286669" />
+    <state width="1106" height="223" key="GridCell.Tab.1.left" timestamp="1583209286668">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1106" height="223" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1583209286668" />
+    <state width="1106" height="223" key="GridCell.Tab.1.right" timestamp="1583209286669">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1106" height="223" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1583209286669" />
+    <state x="514" y="283" key="com.intellij.ide.util.TipDialog" timestamp="1583207549372">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="514" y="283" key="com.intellij.ide.util.TipDialog/0.23.1440.877@0.23.1440.877" timestamp="1583207549372" />
+  </component>
+</project>

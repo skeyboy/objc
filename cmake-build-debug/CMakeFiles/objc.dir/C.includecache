@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/liyulong/CLionProjects/objc/main.c
+stdio.h
+-
+objc_class.h
+/Users/liyulong/CLionProjects/objc/objc_class.h
+objc_object.h
+/Users/liyulong/CLionProjects/objc/objc_object.h
+
+/Users/liyulong/CLionProjects/objc/objc_class.h
+
+/Users/liyulong/CLionProjects/objc/objc_object.h
+objc_class.h
+/Users/liyulong/CLionProjects/objc/objc_class.h
+
